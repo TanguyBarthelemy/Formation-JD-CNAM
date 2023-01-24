@@ -1,4 +1,4 @@
-# Formations JDemetra+ CNAM 2023
+# Formation JDemetra+ CNAM 2023
 
 ## Présentation et installation
 
