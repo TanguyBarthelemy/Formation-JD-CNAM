@@ -1,0 +1,1426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<informationSet xmlns="ec/tss.core">
+    <item name="metadata">
+        <subset>
+            <item name="timestamp">
+                <string>23 janv. 2023 12:01:32</string>
+            </item>
+        </subset>
+    </item>
+    <item name="sa1">
+        <subset>
+            <item name="ts">
+                <ts name="série en dates de soins&#10;transport">
+                    <freq>12</freq>
+                    <firstYear>2010</firstYear>
+                    <firstPeriod>1</firstPeriod>
+                    <data>2.6829441460212478E8 2.441899881657545E8 2.9055627553104675E8 2.604440521584637E8 2.6068983697894114E8 2.7895252295052063E8 2.503281598097152E8 2.2063698580403832E8 2.725676847594668E8 2.668022417261475E8 2.6473087051506972E8 2.5110747961816838E8 2.8558046724371165E8 2.563369749889005E8 2.9096993256511134E8 2.6114919079181555E8 2.894968646210945E8 2.698438423506342E8 2.4505584422618058E8 2.2967781761270538E8 2.7952889942926764E8 2.7274181888693255E8 2.7232809658962995E8 2.511868255095271E8 3.0098791603949165E8 2.687790466379339E8 2.854826446347952E8 2.7249466364888775E8 2.7165162166705835E8 2.8442506936452156E8 2.667314655688319E8 2.3006638149349976E8 2.672654955516323E8 3.009570405192066E8 2.7261073985912687E8 2.5161848141156143E8 2.926922629998058E8 2.7177821305413413E8 2.805722532866256E8 2.849547673089319E8 2.744338174326778E8 2.774022018827443E8 2.8143454210493594E8 2.250740031681227E8 2.8046107827799845E8 2.959443105698881E8 2.7147006173037386E8 2.5740766564043394E8 3.088432547222307E8 2.7231802936026615E8 2.8905752304574275E8 2.921760596142335E8 2.724614423246219E8 2.8541964161452633E8 2.7757916111964464E8 2.2259394834732646E8 2.974019184109945E8 3.0077156909369016E8 2.7500112152510065E8 2.74790908565683E8 3.104633902525846E8 2.734804485273989E8 3.138740186203376E8 2.9655293187198186E8 2.700437390265587E8 3.136743858907077E8 2.8386246965367705E8 2.366175704671952E8 3.0554022182969004E8 3.0107044763335496E8 2.977632085378804E8 2.833808454601512E8 3.124801809749522E8 2.9777952191355693E8 3.275686864845481E8 3.0122661094162786E8 3.1104233072122097E8 3.238439276324014E8 2.77760580787775E8 2.596963344739168E8 3.1959821338632554E8 3.0810140020561534E8 3.1494656551436746E8 2.915675255751012E8 3.4618102998108774E8 2.953464885035247E8 3.5068450093335116E8 2.951266325438301E8 3.297656622658544E8 3.304810621715019E8 2.946215857440048E8 2.660859327491259E8 3.211520709894138E8 3.3516566409631824E8 3.301735228339738E8 2.9963665004104817E8 3.529264199526154E8 3.095765862915371E8 3.4956697053214717E8 3.215264541185494E8 3.2365640192640656E8 3.38545988219481E8 3.2093361666497684E8 2.738742804537209E8 3.209831823127351E8 3.580344394472523E8 3.4361140606966555E8 3.049147388329189E8 3.649618247197215E8 3.2938057744119537E8 3.564754688693501E8 3.486155022691202E8 3.4874552321337646E8 3.2985395536050856E8 3.4646690493979174E8 2.762616807499638E8 3.517360448481398E8 3.732940790753953E8 3.458522809053315E8 3.273261252930734E8 3.857614023157944E8 3.332214290855453E8 2.6566440008795506E8 1.819692502219936E8 2.3974390844638136E8 3.204744742027093E8 3.2812679823539704E8 2.7977426728262675E8 3.6082115507937723E8 3.5573417076168656E8 3.4706210044522727E8 3.351933988658079E8 3.7750979163629323E8 3.381849410865866E8 4.1902703235766995E8 3.737338783061092E8 3.66883806719642E8 4.020403559333224E8 3.563808321563201E8 3.111621845327348E8 3.92351733350354E8 3.857650359333604E8 3.80942520267638E8 3.6187750046273845E8 4.066108997423257E8 3.635105394211808E8 4.408391669585153E8 3.780638285654318E8 4.071647397694194E8 4.0735830178235865E8 3.566796302708998E8</data>
+                    <metaData>
+                        <property name="@timestamp" value="Mon Jan 23 12:00:57 CET 2023"/>
+                        <property name="@source" value="XCLPRVDR"/>
+                        <property name="@id" value="demetra://tsprovider/XCLPRVDR/20111201/SERIES?file=C%3A%5CUsers%5CYWYD5I%5CDocuments%5CFormation_Cnam%5CSession+Janvier+2023%5CDonnees%5Cserie.xlsx#seriesName=transport&amp;sheetName=s%C3%A9rie+en+dates+de+soins"/>
+                    </metaData>
+                </ts>
+            </item>
+            <item name="domainspec">
+                <string>spec1</string>
+            </item>
+            <item name="pointspec">
+                <subset>
+                    <item name="algorithm">
+                        <method version="0.1.0.0">
+                            <name>x13</name>
+                            <family>Seasonal adjustment</family>
+                        </method>
+                    </item>
+                    <item name="regarima">
+                        <subset>
+                            <item name="algorithm">
+<method version="0.1.0.0">
+    <name>regarima</name>
+    <family>Modelling</family>
+</method>
+                            </item>
+                            <item name="arima">
+<subset>
+    <item name="mu">
+        <param type="Estimated">
+            <value>1.062461788907975E7</value>
+        </param>
+    </item>
+    <item name="d">
+        <integer>0</integer>
+    </item>
+    <item name="theta">
+        <params>
+            <coef type="Estimated">
+                <value>0.19697282581659623</value>
+                <stde>0.08698812256882259</stde>
+                <tstat>2.2643646051879873</tstat>
+            </coef>
+        </params>
+    </item>
+</subset>
+                            </item>
+                            <item name="automdl">
+<subset>
+    <item name="enabled">
+        <boolean>false</boolean>
+    </item>
+</subset>
+                            </item>
+                            <item name="regression">
+<subset>
+    <item name="tradingdays">
+        <subset>
+            <item name="option">
+                <string>TradingDays</string>
+            </item>
+            <item name="leapyear">
+                <string>LeapYear</string>
+            </item>
+            <item name="autoadjust">
+                <boolean>false</boolean>
+            </item>
+        </subset>
+    </item>
+    <item name="outliers">
+        <strings>
+            <items>TC.2020-03-01 AO.2020-03-01 TC.2020-07-01</items>
+        </strings>
+    </item>
+    <item name="coefficients">
+        <subset>
+            <item name="td">
+                <doubles>
+                    <data>7825210.2228126945 4651391.1001804685 -72837.58119474832 -967060.4498479851 5262026.619650609 -9101856.441508727</data>
+                </doubles>
+            </item>
+            <item name="lp">
+                <double>5860555.310867896</double>
+            </item>
+            <item name="TC (2020-03-01)">
+                <double>-2.309361465714743E8</double>
+            </item>
+            <item name="AO (2020-03-01)">
+                <double>1.0531022785758783E8</double>
+            </item>
+            <item name="TC (2020-07-01)">
+                <double>2.817233035378297E7</double>
+            </item>
+        </subset>
+    </item>
+</subset>
+                            </item>
+                        </subset>
+                    </item>
+                    <item name="x11">
+                        <subset>
+                            <item name="mode">
+<string>Additive</string>
+                            </item>
+                        </subset>
+                    </item>
+                    <item name="benchmarking">
+                        <subset/>
+                    </item>
+                </subset>
+            </item>
+            <item name="quality">
+                <string>Good</string>
+            </item>
+            <item name="policy">
+                <string>Complete</string>
+            </item>
+        </subset>
+    </item>
+    <item name="sa2">
+        <subset>
+            <item name="ts">
+                <ts name="série en dates de soins&#10;spécialistes">
+                    <freq>12</freq>
+                    <firstYear>2010</firstYear>
+                    <firstPeriod>1</firstPeriod>
+                    <data>9.050170966384612E8 8.699270110151099E8 1.0409162000276965E9 9.070440457802898E8 8.64697395973177E8 9.779393238549813E8 7.638101254194934E8 5.875582157584344E8 9.336410975144247E8 9.206101816128821E8 9.020557301365846E8 8.07787182272534E8 9.843308409259117E8 9.229882603732073E8 1.0494396732234111E9 8.995999043037896E8 1.0138980166118577E9 9.074865298264924E8 7.535389952780056E8 6.21537764694405E8 9.541413629086452E8 9.336527997940538E8 9.306003087061987E8 8.269306457447777E8 1.0458262485840319E9 9.502192718342513E8 1.0380727147724525E9 9.104110366536927E8 9.067311332565536E8 9.922637681271517E8 8.414548468254219E8 6.21336806741652E8 8.988768862428737E8 1.0571495845513673E9 9.307658331200302E8 7.988129891179825E8 1.0433051022995871E9 9.499564409337018E8 9.890313322805599E8 1.01434827223161E9 9.202834953257852E8 9.697638441222583E8 9.069714050480651E8 5.990638544202632E8 9.60168358195364E8 1.0562717788950428E9 9.274093127100056E8 8.496009224939694E8 1.0770733062527559E9 9.862160006842113E8 1.0273923293489696E9 1.0241392797533135E9 9.240584788326082E8 9.875091180260842E8 8.949411583296175E8 5.93093615797091E8 1.0260870266138445E9 1.0589829049554123E9 9.34587473000842E8 9.026575810229688E8 1.038204189841267E9 9.724578695885174E8 1.1175238219112577E9 1.0385049125448147E9 8.842536531124398E8 1.1079136481336985E9 8.907351171457287E8 6.298262746992649E8 1.0483284061938235E9 1.0422933050287564E9 1.0046298529415207E9 9.265047210666645E8 1.071745773532474E9 1.0633407659093267E9 1.1524184932205136E9 1.0551346901349413E9 1.0469723516807905E9 1.1188490141503565E9 8.476928726716985E8 7.000333561797185E8 1.0729967569059473E9 1.0298297995906031E9 1.044621745026293E9 9.260247331293391E8 1.1666948852350764E9 1.0289935007903917E9 1.228475447250957E9 9.881034926881306E8 1.0809271936521678E9 1.1059803500815048E9 8.970116397343633E8 7.215923109740527E8 1.0644336158687091E9 1.1280741167692485E9 1.0946118422695467E9 9.288171993958772E8 1.1825481922821786E9 1.0634948644434811E9 1.1833204158298573E9 1.0785061843908625E9 1.0361707902242776E9 1.14451115845074E9 9.955713537126607E8 7.36564162649306E8 1.0487628247440175E9 1.2017109411034746E9 1.1224264730937946E9 9.36143822035586E8 1.224921600396996E9 1.0926339347242193E9 1.1905191029802082E9 1.1456892573202271E9 1.1249847627375963E9 1.0757260245569217E9 1.0699629446024967E9 7.240097898964514E8 1.1272345638216631E9 1.2131016030845375E9 1.0879728606090827E9 9.904348467592107E8 1.2560723767129693E9 1.129925066951039E9 8.097879206358806E8 4.818064803112005E8 8.490907182437316E8 1.2078553835998085E9 1.1032708326416838E9 7.77377317546413E8 1.2054430323543186E9 1.1703706397922027E9 1.11757681651227E9 1.0412168280853469E9 1.2003483725684438E9 1.1300944273301969E9 1.3469655171697292E9 1.17040639531779E9 1.103227393979699E9 1.2814120228396082E9 1.0128885185164385E9 7.832459943301276E8 1.2107672874341135E9 1.1806882492149205E9 1.144859370701268E9 1.0517640452437513E9 1.246770739470701E9 1.1458622309585526E9 1.38743503653985E9 1.1353766244077353E9 1.2436275226799822E9 1.245158761216389E9 9.814872511332513E8</data>
+                    <metaData>
+                        <property name="@timestamp" value="Mon Jan 23 12:00:57 CET 2023"/>
+                        <property name="@source" value="XCLPRVDR"/>
+                        <property name="@id" value="demetra://tsprovider/XCLPRVDR/20111201/SERIES?file=C%3A%5CUsers%5CYWYD5I%5CDocuments%5CFormation_Cnam%5CSession+Janvier+2023%5CDonnees%5Cserie.xlsx#seriesName=sp%C3%A9cialistes&amp;sheetName=s%C3%A9rie+en+dates+de+soins"/>
+                    </metaData>
+                </ts>
+            </item>
+            <item name="domainspec">
+                <string>spec1</string>
+            </item>
+            <item name="pointspec">
+                <subset>
+                    <item name="algorithm">
+                        <method version="0.1.0.0">
+                            <name>x13</name>
+                            <family>Seasonal adjustment</family>
+                        </method>
+                    </item>
+                    <item name="regarima">
+                        <subset>
+                            <item name="algorithm">
+<method version="0.1.0.0">
+    <name>regarima</name>
+    <family>Modelling</family>
+</method>
+                            </item>
+                            <item name="arima">
+<subset>
+    <item name="mu">
+        <param type="Estimated">
+            <value>2.4518397736123517E7</value>
+        </param>
+    </item>
+    <item name="phi">
+        <params>
+            <coef type="Estimated">
+                <value>-0.22682485515498108</value>
+                <stde>0.5840646700100784</stde>
+                <tstat>-0.38835571949775194</tstat>
+            </coef>
+        </params>
+    </item>
+    <item name="d">
+        <integer>0</integer>
+    </item>
+    <item name="theta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.3275801228082054</value>
+                <stde>0.5679166478109448</stde>
+                <tstat>-0.5768102133840852</tstat>
+            </coef>
+        </params>
+    </item>
+    <item name="btheta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.6780331133575629</value>
+                <stde>0.07966153956087438</stde>
+                <tstat>-8.511423669378562</tstat>
+            </coef>
+        </params>
+    </item>
+</subset>
+                            </item>
+                            <item name="automdl">
+<subset>
+    <item name="enabled">
+        <boolean>false</boolean>
+    </item>
+</subset>
+                            </item>
+                            <item name="regression">
+<subset>
+    <item name="tradingdays">
+        <subset>
+            <item name="option">
+                <string>TradingDays</string>
+            </item>
+            <item name="leapyear">
+                <string>LeapYear</string>
+            </item>
+            <item name="autoadjust">
+                <boolean>false</boolean>
+            </item>
+        </subset>
+    </item>
+    <item name="mh1">
+        <subset>
+            <item name="type">
+                <string>Easter</string>
+            </item>
+            <item name="param">
+                <integer>15</integer>
+            </item>
+        </subset>
+    </item>
+    <item name="outliers">
+        <strings>
+            <items>TC.2020-03-01 AO.2020-04-01 TC.2020-06-01 AO.2011-05-01</items>
+        </strings>
+    </item>
+    <item name="coefficients">
+        <subset>
+            <item name="td">
+                <doubles>
+                    <data>1.8809677394197278E7 1.934366528424819E7 9956354.485275848 -1810849.766921834 1.0936054502327282E7 -2.7178609898472965E7</data>
+                </doubles>
+            </item>
+            <item name="lp">
+                <double>3.366011484203969E7</double>
+            </item>
+            <item name="easter">
+                <double>-2.375849172431647E7</double>
+            </item>
+            <item name="TC (2020-03-01)">
+                <double>-4.6730862051024795E8</double>
+            </item>
+            <item name="AO (2020-04-01)">
+                <double>-3.262848556626963E8</double>
+            </item>
+            <item name="TC (2020-06-01)">
+                <double>1.9180845132026297E8</double>
+            </item>
+            <item name="AO (2011-05-01)">
+                <double>1.1816396147478624E8</double>
+            </item>
+        </subset>
+    </item>
+</subset>
+                            </item>
+                        </subset>
+                    </item>
+                    <item name="x11">
+                        <subset>
+                            <item name="mode">
+<string>Additive</string>
+                            </item>
+                        </subset>
+                    </item>
+                    <item name="benchmarking">
+                        <subset/>
+                    </item>
+                </subset>
+            </item>
+            <item name="quality">
+                <string>Good</string>
+            </item>
+            <item name="policy">
+                <string>Complete</string>
+            </item>
+        </subset>
+    </item>
+    <item name="sa3">
+        <subset>
+            <item name="ts">
+                <ts name="série en dates de soins&#10;Généralistes">
+                    <freq>12</freq>
+                    <firstYear>2010</firstYear>
+                    <firstPeriod>1</firstPeriod>
+                    <data>5.67842767848564E8 5.20337020692675E8 5.97206001099967E8 5.20501401445043E8 5.20679498922454E8 5.54603402270623E8 4.73718296872487E8 4.20696475402927E8 5.94168802958301E8 5.66898153360225E8 5.46991388869899E8 5.57243797972283E8 6.357632383000455E8 5.55227821331109E8 5.822666639226042E8 5.21155864910801E8 5.535088754715451E8 5.149658322628176E8 4.583446071772621E8 4.2788214826331836E8 5.970349964815695E8 5.697189075145268E8 5.603364458960555E8 5.503021566856918E8 6.051674586594262E8 5.64089175663227E8 5.784326220215421E8 5.154960670034397E8 5.0151916118294823E8 5.450690870263579E8 4.874539214871117E8 4.214268810195361E8 5.591164889261345E8 6.201267219194473E8 5.424800233575906E8 5.395462428269172E8 6.27777400401164E8 5.676737937462234E8 5.445104231671356E8 5.399827857365842E8 4.991218653212416E8 5.2013258989596313E8 5.090246055727859E8 4.068697457819841E8 5.778884248162636E8 5.867201656161662E8 5.248459706132615E8 5.333873768154242E8 5.98129897250136E8 5.455824853501E8 5.453115257249058E8 5.30539611076042E8 4.8664772836947197E8 5.2191811619207364E8 4.9153075799505615E8 3.942950216703655E8 5.988200274282755E8 5.806132121016579E8 5.19477571794094E8 5.432435319944837E8 5.999328824773465E8 5.547943764136009E8 5.708690663116034E8 5.197190377229861E8 4.5902917098304415E8 5.54497770244799E8 4.774157717126871E8 4.034398088895907E8 5.967133516913955E8 5.628102154594266E8 5.3338772644301695E8 5.387016347994934E8 5.642864973165524E8 5.62644116692992E8 6.08895476650356E8 5.201413742423902E8 5.166383597644917E8 5.45754220481373E8 4.582431623322057E8 4.275167435317595E8 5.858238761495899E8 5.506511313796692E8 5.504808639071901E8 5.638085354257741E8 6.238854393977994E8 5.0684105728049386E8 5.802041593518186E8 4.730431822823546E8 5.180789798093209E8 5.259132760244051E8 4.598408877331497E8 4.199836616729123E8 5.734080477236834E8 5.753763288662239E8 5.408436190568131E8 5.3409287333187723E8 6.029821846283456E8 5.249173546427041E8 5.719383241064291E8 5.058277050553131E8 4.88974635099661E8 5.2773825613693976E8 4.7976230719136417E8 4.161385206455747E8 5.322334489758918E8 5.846686616450696E8 5.412147456998984E8 5.026893417612751E8 6.000003620448077E8 5.338761516147461E8 5.378952278387135E8 5.1704366417378914E8 5.063405904960258E8 4.8584213520861155E8 4.98711600277751E8 3.997247988326899E8 5.472319519479449E8 5.63442776058204E8 5.1284292712296945E8 5.0655773593187237E8 5.776936496258531E8 5.164305861241891E8 4.579441456206602E8 3.425661554093521E8 4.1118882221123916E8 4.9310124175004005E8 4.6374842184384006E8 3.947065448966766E8 5.537023536318144E8 5.188411532185619E8 4.912193104987622E8 4.509843704918081E8 5.017645027613854E8 4.67790448715079E8 5.583124917645106E8 4.8217378176679903E8 4.4960629210450107E8 5.0181488076027673E8 4.42515906389248E8 3.8821847777790403E8 5.188402725774948E8 5.2420195648054457E8 5.160366263675919E8 4.9673985289718354E8 5.1913709528470665E8 4.4900629549036795E8 5.620728745862913E8 4.784286935660722E8 4.942683776922186E8 5.0544048418182355E8 4.3633838922661346E8</data>
+                    <metaData>
+                        <property name="@timestamp" value="Mon Jan 23 12:00:57 CET 2023"/>
+                        <property name="@source" value="XCLPRVDR"/>
+                        <property name="@id" value="demetra://tsprovider/XCLPRVDR/20111201/SERIES?file=C%3A%5CUsers%5CYWYD5I%5CDocuments%5CFormation_Cnam%5CSession+Janvier+2023%5CDonnees%5Cserie.xlsx#seriesName=G%C3%A9n%C3%A9ralistes&amp;sheetName=s%C3%A9rie+en+dates+de+soins"/>
+                    </metaData>
+                </ts>
+            </item>
+            <item name="domainspec">
+                <string>spec1</string>
+            </item>
+            <item name="pointspec">
+                <subset>
+                    <item name="algorithm">
+                        <method version="0.1.0.0">
+                            <name>x13</name>
+                            <family>Seasonal adjustment</family>
+                        </method>
+                    </item>
+                    <item name="regarima">
+                        <subset>
+                            <item name="algorithm">
+<method version="0.1.0.0">
+    <name>regarima</name>
+    <family>Modelling</family>
+</method>
+                            </item>
+                            <item name="arima">
+<subset>
+    <item name="theta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.9064414279359536</value>
+                <stde>0.037194849348679435</stde>
+                <tstat>-24.370079293469054</tstat>
+            </coef>
+        </params>
+    </item>
+    <item name="btheta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.6501567535075776</value>
+                <stde>0.079268117051201</stde>
+                <tstat>-8.201995678636182</tstat>
+            </coef>
+        </params>
+    </item>
+</subset>
+                            </item>
+                            <item name="automdl">
+<subset>
+    <item name="enabled">
+        <boolean>false</boolean>
+    </item>
+</subset>
+                            </item>
+                            <item name="regression">
+<subset>
+    <item name="tradingdays">
+        <subset>
+            <item name="option">
+                <string>TradingDays</string>
+            </item>
+            <item name="leapyear">
+                <string>LeapYear</string>
+            </item>
+            <item name="autoadjust">
+                <boolean>false</boolean>
+            </item>
+        </subset>
+    </item>
+    <item name="outliers">
+        <strings>
+            <items>TC.2020-03-01 AO.2020-04-01 TC.2020-12-01</items>
+        </strings>
+    </item>
+    <item name="coefficients">
+        <subset>
+            <item name="td">
+                <doubles>
+                    <data>1.1282370352172578E7 1.0091113531110717E7 436009.2652162721 -725489.8768321264 4379312.116792152 -8053971.742910717</data>
+                </doubles>
+            </item>
+            <item name="lp">
+                <double>1.7409470926381327E7</double>
+            </item>
+            <item name="TC (2020-03-01)">
+                <double>-1.0128873882764193E8</double>
+            </item>
+            <item name="AO (2020-04-01)">
+                <double>-8.156844225575961E7</double>
+            </item>
+            <item name="TC (2020-12-01)">
+                <double>-5.528398861630708E7</double>
+            </item>
+        </subset>
+    </item>
+</subset>
+                            </item>
+                        </subset>
+                    </item>
+                    <item name="x11">
+                        <subset>
+                            <item name="mode">
+<string>Additive</string>
+                            </item>
+                        </subset>
+                    </item>
+                    <item name="benchmarking">
+                        <subset/>
+                    </item>
+                </subset>
+            </item>
+            <item name="quality">
+                <string>Good</string>
+            </item>
+            <item name="policy">
+                <string>Complete</string>
+            </item>
+        </subset>
+    </item>
+    <item name="sa4">
+        <subset>
+            <item name="ts">
+                <ts name="série en dates de soins&#10;MK">
+                    <freq>12</freq>
+                    <firstYear>2010</firstYear>
+                    <firstPeriod>1</firstPeriod>
+                    <data>2.8208958263956535E8 2.794916177969637E8 3.322068518301521E8 2.908554874342751E8 2.7554283304399085E8 3.095662442270823E8 2.5288863238697872E8 2.0949566242965582E8 2.828100474001131E8 2.9604649363775057E8 2.9354175603079695E8 2.7516784769677764E8 3.029680328636507E8 2.911262770398078E8 3.300991080443905E8 2.863438823604473E8 3.208484360696686E8 2.829292897810236E8 2.478644798785773E8 2.213027916421149E8 2.921214609202172E8 3.016972489348756E8 3.093090801888725E8 2.905699556916305E8 3.2636495708996904E8 3.019277153297841E8 3.285202225598068E8 2.9264764371183026E8 2.887388566781256E8 3.1516741337264174E8 2.790934136280275E8 2.260965808742158E8 2.767275504454839E8 3.5130274504726714E8 3.208425041463822E8 2.781614308384177E8 3.277164427422688E8 3.058514277218842E8 3.202091298064794E8 3.3133414716192514E8 2.991050357974635E8 3.137358014165604E8 3.122964327820746E8 2.2176606749160284E8 3.0390030475287795E8 3.560466557444536E8 3.156241703948769E8 3.048882195721362E8 3.496479466070094E8 3.287895814349516E8 3.4098497803692734E8 3.4431120958518064E8 3.049691241149999E8 3.2797066573023725E8 3.130601214610098E8 2.239679373027882E8 3.320086891526591E8 3.649435769394084E8 3.2354699752797884E8 3.3017548399248636E8 3.420378281724313E8 3.2491471514986336E8 3.753636875478822E8 3.5021692911010563E8 2.9375858441419154E8 3.717580672655392E8 3.142680768205986E8 2.4123827233770055E8 3.430964129183941E8 3.60502197364098E8 3.587216531480403E8 3.367655843655235E8 3.5182952960717595E8 3.5900591924336225E8 3.8741612411644286E8 3.560131086502739E8 3.555834859934852E8 3.800734087710223E8 2.996964492103395E8 2.6918351209454113E8 3.5801043309583527E8 3.591834242652654E8 3.7126507082845956E8 3.398502257725052E8 3.8807302686141974E8 3.4853911596616155E8 4.2075776127244145E8 3.3344904128363883E8 3.701725042903631E8 3.780608136700541E8 3.196166472102186E8 2.7696130052007216E8 3.539138599971883E8 3.974724443079816E8 3.926207016769313E8 3.362685621532045E8 3.9420280167492974E8 3.6440893267712045E8 4.055586728535399E8 3.711449210484429E8 3.542080746548573E8 3.896801103549055E8 3.552088426978404E8 2.78701762638319E8 3.469896906835551E8 4.2092692933864754E8 3.965970013927512E8 3.312696187803607E8 4.0467315458255756E8 3.684030259167408E8 4.044398714458394E8 3.939253115889963E8 3.8606371834001553E8 3.61175077544577E8 3.768103326057174E8 2.728868878634192E8 3.763269579376333E8 4.276124056906565E8 3.7991925201853627E8 3.5230793224599564E8 4.13668725411747E8 3.796749600442263E8 2.1706384738296112E8 5.984092455603303E7 2.3540421049951845E8 3.783074279873474E8 3.701048793982074E8 2.8870471272578686E8 3.9565681892022276E8 4.0695565392184454E8 4.1220074200814885E8 3.753814364677606E8 3.9753906664194095E8 3.9008797300254464E8 4.673634712934874E8 4.2300452409340584E8 3.8645709330259943E8 4.371400085159258E8 3.6078010600462574E8 2.98995409354604E8 4.0765002665263164E8 4.1415804865024734E8 4.0568212411033016E8 3.683370921712427E8 4.106969512941442E8 3.86028630253921E8 4.7213914706579727E8 3.9042826737910086E8 4.296856236289046E8 4.2827331265025496E8 3.5045746771011966E8</data>
+                    <metaData>
+                        <property name="@timestamp" value="Mon Jan 23 12:00:57 CET 2023"/>
+                        <property name="@source" value="XCLPRVDR"/>
+                        <property name="@id" value="demetra://tsprovider/XCLPRVDR/20111201/SERIES?file=C%3A%5CUsers%5CYWYD5I%5CDocuments%5CFormation_Cnam%5CSession+Janvier+2023%5CDonnees%5Cserie.xlsx#seriesName=MK&amp;sheetName=s%C3%A9rie+en+dates+de+soins"/>
+                    </metaData>
+                </ts>
+            </item>
+            <item name="domainspec">
+                <string>spec1</string>
+            </item>
+            <item name="pointspec">
+                <subset>
+                    <item name="algorithm">
+                        <method version="0.1.0.0">
+                            <name>x13</name>
+                            <family>Seasonal adjustment</family>
+                        </method>
+                    </item>
+                    <item name="regarima">
+                        <subset>
+                            <item name="algorithm">
+<method version="0.1.0.0">
+    <name>regarima</name>
+    <family>Modelling</family>
+</method>
+                            </item>
+                            <item name="arima">
+<subset>
+    <item name="mu">
+        <param type="Estimated">
+            <value>1.089451621729417E7</value>
+        </param>
+    </item>
+    <item name="phi">
+        <params>
+            <coef type="Estimated">
+                <value>-0.2654535219191368</value>
+                <stde>0.47235259726258993</stde>
+                <tstat>-0.5619817133588577</tstat>
+            </coef>
+        </params>
+    </item>
+    <item name="d">
+        <integer>0</integer>
+    </item>
+    <item name="theta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.3916883764398111</value>
+                <stde>0.4482197595316922</stde>
+                <tstat>-0.8738757453465549</tstat>
+            </coef>
+        </params>
+    </item>
+    <item name="btheta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.6436795973419079</value>
+                <stde>0.07595269980167309</stde>
+                <tstat>-8.474742820501147</tstat>
+            </coef>
+        </params>
+    </item>
+</subset>
+                            </item>
+                            <item name="automdl">
+<subset>
+    <item name="enabled">
+        <boolean>false</boolean>
+    </item>
+</subset>
+                            </item>
+                            <item name="regression">
+<subset>
+    <item name="tradingdays">
+        <subset>
+            <item name="option">
+                <string>TradingDays</string>
+            </item>
+            <item name="leapyear">
+                <string>LeapYear</string>
+            </item>
+            <item name="autoadjust">
+                <boolean>false</boolean>
+            </item>
+        </subset>
+    </item>
+    <item name="mh1">
+        <subset>
+            <item name="type">
+                <string>Easter</string>
+            </item>
+            <item name="param">
+                <integer>8</integer>
+            </item>
+        </subset>
+    </item>
+    <item name="outliers">
+        <strings>
+            <items>TC.2020-03-01 AO.2020-04-01 TC.2020-06-01 AO.2020-06-01 TC.2021-11-01</items>
+        </strings>
+    </item>
+    <item name="coefficients">
+        <subset>
+            <item name="td">
+                <doubles>
+                    <data>9668814.900324157 7282951.040239879 788132.8000608346 952271.9251427103 4525428.375126401 -1.2412883334581405E7</data>
+                </doubles>
+            </item>
+            <item name="lp">
+                <double>8189667.146325605</double>
+            </item>
+            <item name="easter">
+                <double>-9025219.34521275</double>
+            </item>
+            <item name="TC (2020-03-01)">
+                <double>-2.3811350326299214E8</double>
+            </item>
+            <item name="AO (2020-04-01)">
+                <double>-1.6666897569318065E8</double>
+            </item>
+            <item name="TC (2020-06-01)">
+                <double>8.4112335963318E7</double>
+            </item>
+            <item name="AO (2020-06-01)">
+                <double>-5.2029894614020884E7</double>
+            </item>
+            <item name="TC (2021-11-01)">
+                <double>-2.7310624669012766E7</double>
+            </item>
+        </subset>
+    </item>
+</subset>
+                            </item>
+                        </subset>
+                    </item>
+                    <item name="x11">
+                        <subset>
+                            <item name="mode">
+<string>Additive</string>
+                            </item>
+                        </subset>
+                    </item>
+                    <item name="benchmarking">
+                        <subset/>
+                    </item>
+                </subset>
+            </item>
+            <item name="quality">
+                <string>Good</string>
+            </item>
+            <item name="policy">
+                <string>Complete</string>
+            </item>
+        </subset>
+    </item>
+    <item name="sa5">
+        <subset>
+            <item name="ts">
+                <ts name="série en dates de soins&#10;Dentistes">
+                    <freq>12</freq>
+                    <firstYear>2010</firstYear>
+                    <firstPeriod>1</firstPeriod>
+                    <data>3.03793312929139E8 2.99142884484416E8 3.70877999296179E8 3.16493458011464E8 3.12773305060641E8 3.68157426414653E8 3.02840746709348E8 1.53706029128904E8 3.23609501738217E8 3.31627760049466E8 3.22463086959811E8 2.95184346805055E8 3.21947381289192E8 3.11562501148716E8 3.5676291085611E8 3.14258523468647E8 3.59067980297519E8 3.27637796052506E8 2.98144347595293E8 1.63315826847852E8 3.30546891176092E8 3.27264138886682E8 3.30178684268123E8 3.02975586028843E8 3.38437202860919E8 3.16975435154314E8 3.5208200076607E8 3.09270442923825E8 3.16591346753931E8 3.61891051883931E8 3.22743987237468E8 1.62640210845669E8 3.09245395968639E8 3.70888064584325E8 3.26024961009882E8 2.88672588665476E8 3.27280944420124E8 3.121603419462952E8 3.3207565675927484E8 3.4530855699867994E8 3.1308835280993396E8 3.450274616390292E8 3.4154771140710443E8 1.5588208716040546E8 3.2096435075138146E8 3.619629436268077E8 3.154985409038559E8 3.003781860852961E8 3.3580987551654094E8 3.214707065093399E8 3.356916871352178E8 3.434922571719712E8 3.209180319316897E8 3.303508285600718E8 3.269524682638532E8 1.4925309505741826E8 3.362352865683489E8 3.5933960582440495E8 3.0281208589461845E8 3.1317063490086436E8 3.1993827886060673E8 3.075002774294236E8 3.6426777196768504E8 3.390171460484703E8 2.933514878197949E8 3.797156312946433E8 3.215498501959276E8 1.5738090170897198E8 3.4468507289536124E8 3.4681070056558615E8 3.3728803986375415E8 3.206742482155638E8 3.267413294515464E8 3.301281784803603E8 3.657253980680727E8 3.3689085250296587E8 3.4420866463669735E8 3.71087733295639E8 3.067098550037388E8 1.7589611528657398E8 3.4873062370816773E8 3.341150408009823E8 3.424940493110192E8 3.1133197526362634E8 3.5078028471676654E8 3.173948542728487E8 3.8660265195473623E8 3.0827352076919174E8 3.541129116601341E8 3.599598448115238E8 3.177515323564432E8 1.7900722908280173E8 3.432368021267317E8 3.6563848098928857E8 3.5238341002526456E8 3.0797545087794816E8 3.508582040005846E8 3.24924347365754E8 3.69281257443904E8 3.3890336863417786E8 3.222458667296168E8 3.723488566174642E8 3.42696574609238E8 1.7956119718234047E8 3.27039234954783E8 3.8473052967363244E8 3.5461250209922737E8 3.0489300784139866E8 3.503382031960233E8 3.2642535186193156E8 3.860074934953454E8 3.3348260268117595E8 3.448042516142754E8 3.387393802497833E8 3.6331370807989186E8 1.7451796541208225E8 3.4570680523491216E8 3.761312646141295E8 3.346721180124053E8 3.1169282279869336E8 3.461003543096993E8 3.282707506170767E8 1.9486415148016605E8 2.29276912570745E7 2.2784131235932407E8 3.8770233718398744E8 3.660741858256052E8 1.9159278429750705E8 3.585922567476343E8 3.5033259069975114E8 3.7015419977581614E8 3.32706198813295E8 3.42700158541783E8 3.3758204966004205E8 4.021350319002107E8 3.4999916310766023E8 3.363415911140073E8 4.044306458640177E8 3.3839635039485073E8 1.7702570141574746E8 3.573921750102825E8 3.5768583265117484E8 3.518409744535689E8 3.1561979500256056E8 3.477752874181323E8 3.305937198857894E8 4.05970072818227E8 3.300143798262E8 3.74807822081852E8 3.810907740262676E8 3.2620171678299314E8</data>
+                    <metaData>
+                        <property name="@timestamp" value="Mon Jan 23 12:00:57 CET 2023"/>
+                        <property name="@source" value="XCLPRVDR"/>
+                        <property name="@id" value="demetra://tsprovider/XCLPRVDR/20111201/SERIES?file=C%3A%5CUsers%5CYWYD5I%5CDocuments%5CFormation_Cnam%5CSession+Janvier+2023%5CDonnees%5Cserie.xlsx#seriesName=Dentistes&amp;sheetName=s%C3%A9rie+en+dates+de+soins"/>
+                    </metaData>
+                </ts>
+            </item>
+            <item name="domainspec">
+                <string>spec1</string>
+            </item>
+            <item name="pointspec">
+                <subset>
+                    <item name="algorithm">
+                        <method version="0.1.0.0">
+                            <name>x13</name>
+                            <family>Seasonal adjustment</family>
+                        </method>
+                    </item>
+                    <item name="regarima">
+                        <subset>
+                            <item name="algorithm">
+<method version="0.1.0.0">
+    <name>regarima</name>
+    <family>Modelling</family>
+</method>
+                            </item>
+                            <item name="arima">
+<subset>
+    <item name="mu">
+        <param type="Estimated">
+            <value>2950870.5809453344</value>
+        </param>
+    </item>
+    <item name="phi">
+        <params>
+            <coef type="Estimated">
+                <value>-0.18120066929654186</value>
+                <stde>0.44720400043721215</stde>
+                <tstat>-0.4051857074610016</tstat>
+            </coef>
+        </params>
+    </item>
+    <item name="d">
+        <integer>0</integer>
+    </item>
+    <item name="theta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.35435226731923164</value>
+                <stde>0.42402925205982356</stde>
+                <tstat>-0.8356788254533872</tstat>
+            </coef>
+        </params>
+    </item>
+    <item name="btheta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.9995660777758548</value>
+                <stde>0.06419278045242735</stde>
+                <tstat>-15.5713161313619</tstat>
+            </coef>
+        </params>
+    </item>
+</subset>
+                            </item>
+                            <item name="automdl">
+<subset>
+    <item name="enabled">
+        <boolean>false</boolean>
+    </item>
+</subset>
+                            </item>
+                            <item name="regression">
+<subset>
+    <item name="tradingdays">
+        <subset>
+            <item name="option">
+                <string>TradingDays</string>
+            </item>
+            <item name="leapyear">
+                <string>LeapYear</string>
+            </item>
+            <item name="autoadjust">
+                <boolean>false</boolean>
+            </item>
+        </subset>
+    </item>
+    <item name="mh1">
+        <subset>
+            <item name="type">
+                <string>Easter</string>
+            </item>
+            <item name="param">
+                <integer>8</integer>
+            </item>
+        </subset>
+    </item>
+    <item name="outliers">
+        <strings>
+            <items>TC.2020-03-01 AO.2020-04-01 TC.2020-06-01 AO.2011-05-01</items>
+        </strings>
+    </item>
+    <item name="coefficients">
+        <subset>
+            <item name="td">
+                <doubles>
+                    <data>6131181.097550136 6571176.293795465 3671297.023987927 -3188929.236802908 3983726.5323799066 -7906933.515758594</data>
+                </doubles>
+            </item>
+            <item name="lp">
+                <double>6247706.871633236</double>
+            </item>
+            <item name="easter">
+                <double>-1.3641248783580743E7</double>
+            </item>
+            <item name="TC (2020-03-01)">
+                <double>-1.9863099188888946E8</double>
+            </item>
+            <item name="AO (2020-04-01)">
+                <double>-1.7692704172988307E8</double>
+            </item>
+            <item name="TC (2020-06-01)">
+                <double>8.409252975165972E7</double>
+            </item>
+            <item name="AO (2011-05-01)">
+                <double>3.769315038294555E7</double>
+            </item>
+        </subset>
+    </item>
+</subset>
+                            </item>
+                        </subset>
+                    </item>
+                    <item name="x11">
+                        <subset>
+                            <item name="mode">
+<string>Additive</string>
+                            </item>
+                        </subset>
+                    </item>
+                    <item name="benchmarking">
+                        <subset/>
+                    </item>
+                </subset>
+            </item>
+            <item name="quality">
+                <string>Good</string>
+            </item>
+            <item name="policy">
+                <string>Complete</string>
+            </item>
+        </subset>
+    </item>
+    <item name="sa6">
+        <subset>
+            <item name="ts">
+                <ts name="série en dates de soins&#10;biologie">
+                    <freq>12</freq>
+                    <firstYear>2010</firstYear>
+                    <firstPeriod>1</firstPeriod>
+                    <data>3.4777831499434E8 3.3861188726854795E8 4.019510301348587E8 3.5806271822855324E8 3.42435019403365E8 3.7869100372106844E8 3.129466377942315E8 2.8533833320316726E8 3.833592341192795E8 3.778747541404887E8 3.677907043717769E8 3.378668713158187E8 3.841539261606562E8 3.6191613186613077E8 4.1709878031656414E8 3.645620662239964E8 3.9275463804007274E8 3.6925760005091816E8 3.2169251868339944E8 3.000598096543035E8 4.0186385059090763E8 3.9151810873236823E8 3.7991265645923007E8 3.5774430072464734E8 4.0344524002569276E8 3.7036221480812424E8 4.2759783390288925E8 3.732858196090542E8 3.7794155508962387E8 4.080671068136709E8 3.47305234513693E8 3.0889518738767874E8 3.9273721916221094E8 4.2893831183662575E8 3.922165991665539E8 3.487802438279391E8 4.112611666577246E8 3.836997671275272E8 4.206031863585185E8 4.060032712190392E8 3.861821979866733E8 3.981264656341586E8 3.6795414294586074E8 3.134086456790687E8 4.0758384393724227E8 4.419991979567177E8 3.946100380326754E8 3.6605827552879894E8 4.3413872939739203E8 3.9720811102865493E8 4.290741829880508E8 4.106925189357415E8 3.97604609491028E8 4.02262494797415E8 3.74520748195045E8 3.1677616630738044E8 4.265350973112158E8 4.510416553217061E8 3.9563782785632366E8 3.805754005057914E8 4.177971715992721E8 3.8795219088617414E8 4.474381249233602E8 4.167345419826407E8 3.7883960986179537E8 4.334615290260671E8 3.681422602725321E8 3.268843621381889E8 4.370451815722148E8 4.403228398518832E8 4.105631539098898E8 4.015063862328454E8 4.266867501181418E8 4.253394727211611E8 4.592097853046067E8 4.409262640322177E8 4.245481824071741E8 4.410365573508109E8 3.631651332950666E8 3.4861831875525546E8 4.5322009850592154E8 4.384174518367063E8 4.292677832467479E8 4.087127884750146E8 4.427281522928256E8 4.23254382412911E8 4.9417947310323995E8 4.095597450668265E8 4.392789945927011E8 4.41297209294324E8 3.8642545588750017E8 3.671284103481126E8 4.704755208767775E8 4.72698764021989E8 4.4953836965056914E8 4.0152886653689325E8 4.798426951144339E8 4.238812973953888E8 4.966229536286863E8 4.386388619594248E8 4.391553214465554E8 4.69567779380354E8 4.0415651296985936E8 3.72122827394142E8 4.6065346213403213E8 4.937598637010422E8 4.586401280023786E8 4.0860284716255516E8 4.8512376681577826E8 4.5143029830113447E8 5.068889526556904E8 4.717906115455238E8 4.781832088670037E8 4.502202980881571E8 4.431371971744504E8 3.902049356793048E8 4.834222886958292E8 5.103891209387474E8 4.754190945978119E8 4.3311345000714797E8 5.1214295384857017E8 4.832050961189133E8 3.659452139491079E8 3.063064416995626E8 4.166596079180505E8 5.180321075188426E8 4.636954672841929E8 3.9992282206600225E8 5.0219756478699666E8 5.029021904406696E8 4.765840835224339E8 4.6386321203427124E8 4.9809905058491623E8 4.7598911258157706E8 5.555938643303175E8 5.0690987528571725E8 4.786895937538086E8 5.2520146354814243E8 4.525297128378217E8 4.127588519532178E8 5.299149396260046E8 5.1639408533329934E8 5.039324166336848E8 4.8470165056134653E8 5.06202943233691E8 4.904933861793642E8 5.70287564495382E8 4.915555559009383E8 5.175787922412763E8 5.2550591050821567E8 4.456722999176357E8</data>
+                    <metaData>
+                        <property name="@timestamp" value="Mon Jan 23 12:00:57 CET 2023"/>
+                        <property name="@source" value="XCLPRVDR"/>
+                        <property name="@id" value="demetra://tsprovider/XCLPRVDR/20111201/SERIES?file=C%3A%5CUsers%5CYWYD5I%5CDocuments%5CFormation_Cnam%5CSession+Janvier+2023%5CDonnees%5Cserie.xlsx#seriesName=biologie&amp;sheetName=s%C3%A9rie+en+dates+de+soins"/>
+                    </metaData>
+                </ts>
+            </item>
+            <item name="domainspec">
+                <string>spec1</string>
+            </item>
+            <item name="pointspec">
+                <subset>
+                    <item name="algorithm">
+                        <method version="0.1.0.0">
+                            <name>x13</name>
+                            <family>Seasonal adjustment</family>
+                        </method>
+                    </item>
+                    <item name="regarima">
+                        <subset>
+                            <item name="algorithm">
+<method version="0.1.0.0">
+    <name>regarima</name>
+    <family>Modelling</family>
+</method>
+                            </item>
+                            <item name="arima">
+<subset>
+    <item name="theta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.8710257428022029</value>
+                <stde>0.044116847523804334</stde>
+                <tstat>-19.743607979518924</tstat>
+            </coef>
+        </params>
+    </item>
+    <item name="btheta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.9998442047905014</value>
+                <stde>0.07154716594220546</stde>
+                <tstat>-13.974616487229667</tstat>
+            </coef>
+        </params>
+    </item>
+</subset>
+                            </item>
+                            <item name="automdl">
+<subset>
+    <item name="enabled">
+        <boolean>false</boolean>
+    </item>
+</subset>
+                            </item>
+                            <item name="regression">
+<subset>
+    <item name="tradingdays">
+        <subset>
+            <item name="option">
+                <string>TradingDays</string>
+            </item>
+            <item name="leapyear">
+                <string>LeapYear</string>
+            </item>
+            <item name="autoadjust">
+                <boolean>false</boolean>
+            </item>
+        </subset>
+    </item>
+    <item name="mh1">
+        <subset>
+            <item name="type">
+                <string>Easter</string>
+            </item>
+            <item name="param">
+                <integer>15</integer>
+            </item>
+        </subset>
+    </item>
+    <item name="outliers">
+        <strings>
+            <items>TC.2020-03-01 TC.2020-06-01 AO.2020-04-01</items>
+        </strings>
+    </item>
+    <item name="coefficients">
+        <subset>
+            <item name="td">
+                <doubles>
+                    <data>4306394.388903859 5591359.889450081 1469475.5787287015 -469139.1690040872 5578887.201455581 -4474326.40019447</data>
+                </doubles>
+            </item>
+            <item name="lp">
+                <double>1.1869581408955837E7</double>
+            </item>
+            <item name="easter">
+                <double>-1.060596409398807E7</double>
+            </item>
+            <item name="TC (2020-03-01)">
+                <double>-1.4857780427232182E8</double>
+            </item>
+            <item name="TC (2020-06-01)">
+                <double>6.23357747989115E7</double>
+            </item>
+            <item name="AO (2020-04-01)">
+                <double>-6.893343670568475E7</double>
+            </item>
+        </subset>
+    </item>
+</subset>
+                            </item>
+                        </subset>
+                    </item>
+                    <item name="x11">
+                        <subset>
+                            <item name="mode">
+<string>Additive</string>
+                            </item>
+                        </subset>
+                    </item>
+                    <item name="benchmarking">
+                        <subset/>
+                    </item>
+                </subset>
+            </item>
+            <item name="quality">
+                <string>Good</string>
+            </item>
+            <item name="policy">
+                <string>Complete</string>
+            </item>
+        </subset>
+    </item>
+    <item name="sa7">
+        <subset>
+            <item name="ts">
+                <ts name="série en dates de soins&#10;officine de ville">
+                    <freq>12</freq>
+                    <firstYear>2010</firstYear>
+                    <firstPeriod>1</firstPeriod>
+                    <data>2.0117537130483518E9 1.9030762223896832E9 2.194384626008637E9 2.0635668897293487E9 1.998079214672586E9 2.1312277441924982E9 2.088257375847329E9 1.814466222468249E9 2.1236462741191316E9 2.1429070038545852E9 2.0909302951196153E9 2.2002160800404167E9 2.1768905000379577E9 2.0181692904507058E9 2.242009292187524E9 2.094599205271447E9 2.186621226420651E9 2.1257412933195958E9 2.0947337360812178E9 1.951177573214802E9 2.1660471426370387E9 2.2013925740500355E9 2.175952364445728E9 2.226661339390444E9 2.275576711890654E9 2.1766722952993484E9 2.3034224684655523E9 2.1381019893293197E9 2.1792455147839746E9 2.2496642843631644E9 2.2042705460827956E9 2.00760606562255E9 2.1157846566875293E9 2.4285464876151137E9 2.2316332170601325E9 2.261585792543737E9 2.4311741058559036E9 2.198565115555884E9 2.340675754608249E9 2.3326373012660933E9 2.2946111130256667E9 2.2386715014696903E9 2.3866060773618846E9 2.0651708868903491E9 2.2468950038417783E9 2.497541521771148E9 2.290653131121582E9 2.375898998527603E9 2.491145896441827E9 2.2772254942061915E9 2.411195033330416E9 2.440667198881586E9 2.327882114039444E9 2.3470856749764476E9 2.464376394480943E9 2.0661318007959037E9 2.340487716193283E9 2.644689437844257E9 2.328142066605637E9 2.555079229118859E9 2.574204035686515E9 2.376238334312E9 2.5266326726906557E9 2.5006972507785687E9 2.3111556763321686E9 2.522856265805521E9 2.5307316281098714E9 2.132807622703422E9 2.5307634914989457E9 2.61476412822692E9 2.4297040479828467E9 2.6118464102467833E9 2.5310874772193036E9 2.495530105737917E9 2.7114503795721955E9 2.5829201247679195E9 2.5594445469285126E9 2.6275941138965435E9 2.5294622815573525E9 2.372329171643269E9 2.59389401278207E9 2.6503044759138145E9 2.629644148217503E9 2.7417754090092287E9 2.7781591804791226E9 2.4865013518518524E9 2.8371304229638004E9 2.53730017265087E9 2.709246990365756E9 2.709822079379712E9 2.6504639698904376E9 2.4820866631719217E9 2.6941082382119675E9 2.826890309124368E9 2.7433573985489526E9 2.771407579940984E9 2.942680127401163E9 2.66357305187639E9 2.9892165874235964E9 2.779249282540558E9 2.8522602643438516E9 2.9028557795937653E9 2.909745332333049E9 2.678556335583061E9 2.7746806571184425E9 3.195854238462084E9 3.050403525038387E9 3.006464217498291E9 3.21580910146652E9 2.9259572006599474E9 3.104161536600337E9 3.0926652717790127E9 3.0799228576289554E9 2.96971867948797E9 3.236081654452692E9 2.834343758693869E9 3.038375044233826E9 3.3992628387489724E9 3.183599478911772E9 3.234901018118137E9 3.403724521530813E9 3.18732513419856E9 3.517020651677325E9 2.904607277623441E9 2.9514226399912176E9 3.2172526098747435E9 3.3403820264740543E9 2.98565919320244E9 3.3399853633440895E9 3.6187259874143744E9 3.290825279175993E9 3.461887584193243E9 3.32839114458522E9 3.1322883518087654E9 3.6514354959799404E9 3.460469583853992E9 3.3423456882320285E9 3.602771301861474E9 3.6115668350799823E9 3.3042349582596707E9 3.639085437090654E9 3.798221518841523E9 3.8305996119700446E9 3.886484099038393E9 3.7854363373748913E9 3.5182420141725926E9 4.1004589992155294E9 3.817213406223106E9 3.94582521188739E9 4.032359372829789E9 3.9026597796222515E9</data>
+                    <metaData>
+                        <property name="@timestamp" value="Mon Jan 23 12:00:57 CET 2023"/>
+                        <property name="@source" value="XCLPRVDR"/>
+                        <property name="@id" value="demetra://tsprovider/XCLPRVDR/20111201/SERIES?file=C%3A%5CUsers%5CYWYD5I%5CDocuments%5CFormation_Cnam%5CSession+Janvier+2023%5CDonnees%5Cserie.xlsx#seriesName=officine+de+ville&amp;sheetName=s%C3%A9rie+en+dates+de+soins"/>
+                    </metaData>
+                </ts>
+            </item>
+            <item name="domainspec">
+                <string>spec1</string>
+            </item>
+            <item name="pointspec">
+                <subset>
+                    <item name="algorithm">
+                        <method version="0.1.0.0">
+                            <name>x13</name>
+                            <family>Seasonal adjustment</family>
+                        </method>
+                    </item>
+                    <item name="regarima">
+                        <subset>
+                            <item name="algorithm">
+<method version="0.1.0.0">
+    <name>regarima</name>
+    <family>Modelling</family>
+</method>
+                            </item>
+                            <item name="transform">
+<subset>
+    <item name="function">
+        <string>Log</string>
+    </item>
+    <item name="adjust">
+        <string>LeapYear</string>
+    </item>
+</subset>
+                            </item>
+                            <item name="arima">
+<subset>
+    <item name="theta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.3256572516035014</value>
+                <stde>0.0832697540294213</stde>
+                <tstat>-3.9108708245786157</tstat>
+            </coef>
+        </params>
+    </item>
+    <item name="btheta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.49934954491740785</value>
+                <stde>0.08321318226936676</stde>
+                <tstat>-6.000846636305522</tstat>
+            </coef>
+        </params>
+    </item>
+</subset>
+                            </item>
+                            <item name="automdl">
+<subset>
+    <item name="enabled">
+        <boolean>false</boolean>
+    </item>
+</subset>
+                            </item>
+                            <item name="regression">
+<subset>
+    <item name="tradingdays">
+        <subset>
+            <item name="option">
+                <string>TradingDays</string>
+            </item>
+            <item name="autoadjust">
+                <boolean>false</boolean>
+            </item>
+        </subset>
+    </item>
+    <item name="outliers">
+        <strings>
+            <items>TC.2020-04-01 AO.2011-05-01 AO.2014-09-01</items>
+        </strings>
+    </item>
+    <item name="coefficients">
+        <subset>
+            <item name="td">
+                <doubles>
+                    <data>0.011089356929862468 0.010496524470167879 0.005487114254939037 0.002469146936241757 0.009787191671584082 -0.009494997135184305</data>
+                </doubles>
+            </item>
+            <item name="TC (2020-04-01)">
+                <double>-0.1436364486485352</double>
+            </item>
+            <item name="AO (2011-05-01)">
+                <double>0.062416010225758045</double>
+            </item>
+            <item name="AO (2014-09-01)">
+                <double>-0.05051886329059908</double>
+            </item>
+        </subset>
+    </item>
+</subset>
+                            </item>
+                        </subset>
+                    </item>
+                    <item name="x11">
+                        <subset>
+                            <item name="mode">
+<string>Multiplicative</string>
+                            </item>
+                        </subset>
+                    </item>
+                    <item name="benchmarking">
+                        <subset/>
+                    </item>
+                </subset>
+            </item>
+            <item name="quality">
+                <string>Good</string>
+            </item>
+            <item name="policy">
+                <string>Complete</string>
+            </item>
+        </subset>
+    </item>
+    <item name="sa8">
+        <subset>
+            <item name="ts">
+                <ts name="série en dates de soins&#10;lpp">
+                    <freq>12</freq>
+                    <firstYear>2010</firstYear>
+                    <firstPeriod>1</firstPeriod>
+                    <data>3.867147489240207E8 3.656745547470991E8 3.9934788376947266E8 4.4232758603472567E8 3.823435080447815E8 4.0186778725117034E8 4.301180798998747E8 3.462289506333226E8 4.0978135163774973E8 4.126224296499268E8 4.062173298975459E8 4.2123473431484014E8 4.2010975330904925E8 4.0518079227401286E8 4.543005045532155E8 4.0860153154950625E8 4.527061979721163E8 4.328911912710303E8 4.154403474900495E8 3.6820829470969725E8 4.1833333866316134E8 4.752103491621137E8 4.350462717964736E8 4.5134615256008446E8 4.636671581031191E8 4.328058175684075E8 4.804457356471261E8 4.2905225040127987E8 4.4685736867990816E8 4.786369747306664E8 4.568937794607384E8 3.9625119196109575E8 4.562631366267286E8 4.907230365095678E8 4.5385332308664757E8 4.637114616033127E8 4.864227846890555E8 4.754096528808525E8 4.99092318586515E8 4.8644491637631E8 4.7011433255586964E8 4.981102008085065E8 5.084974014409243E8 4.3644028062364525E8 4.528683033408322E8 5.445313809688612E8 4.900204557879801E8 4.866260320300879E8 5.402887308995769E8 5.101882246557637E8 5.2209284106371254E8 5.1154219243889517E8 5.429883814556663E8 5.175077517918213E8 5.41545843254226E8 4.572350793013171E8 5.2185066652631867E8 5.560673965947745E8 5.126907438406355E8 5.679899612154036E8 5.738021996111244E8 5.206780384819366E8 5.75723189054689E8 5.607887978677573E8 5.179014099687359E8 5.99836192232809E8 5.703060347220055E8 4.855341290408303E8 5.654976073488324E8 5.896217517184713E8 5.429786230820216E8 5.913272183195928E8 5.949813151549559E8 5.677478850537932E8 6.161820467538084E8 6.001301637492849E8 5.809694480808995E8 6.08697190590791E8 5.90807276805878E8 5.411529936662016E8 5.893423415379926E8 5.683285045067967E8 6.481645872308328E8 6.193655442855827E8 6.383656782454157E8 5.866694061319147E8 6.681727457864726E8 6.102491699639261E8 6.288814691476672E8 6.43635485755809E8 6.217600385315328E8 5.499435941493344E8 6.635899974615214E8 6.420056399209347E8 6.332130485806142E8 6.046641532394339E8 7.332346561590252E8 6.100047743246177E8 7.144644637565701E8 6.3178503800353E8 6.369449715017623E8 6.81284528131322E8 6.713725504940606E8 6.056702631288655E8 6.299204343519623E8 7.020324566726446E8 6.668919706118315E8 6.357036548762742E8 7.693978962060344E8 6.437775163312054E8 7.155610414698981E8 6.99269082851393E8 6.951132191560582E8 6.775729205209976E8 7.379529096396866E8 6.308343284411488E8 6.72650155141578E8 7.327872360899583E8 7.001561368728428E8 6.691943748197064E8 8.236389937144489E8 7.163680093257512E8 6.825580504072015E8 5.894662796917886E8 6.317309155573803E8 7.346909937771599E8 7.896169306413276E8 6.582191577953086E8 7.409042259577411E8 7.888850165263203E8 7.252134670810977E8 7.659309792160666E8 7.869059887701176E8 7.314830269046991E8 8.381954272246095E8 8.057032188619999E8 7.636337687160592E8 8.447596060367708E8 8.134964987393851E8 6.552044487159506E8 8.370320659887528E8 8.082194874106128E8 7.892852507855805E8 8.199266103707833E8 8.075157952795215E8 7.249340479204792E8 9.302848766762936E8 8.244554051618446E8 8.330860573976051E8 8.592467910374097E8 8.269871941479208E8</data>
+                    <metaData>
+                        <property name="@timestamp" value="Mon Jan 23 12:00:57 CET 2023"/>
+                        <property name="@source" value="XCLPRVDR"/>
+                        <property name="@id" value="demetra://tsprovider/XCLPRVDR/20111201/SERIES?file=C%3A%5CUsers%5CYWYD5I%5CDocuments%5CFormation_Cnam%5CSession+Janvier+2023%5CDonnees%5Cserie.xlsx#seriesName=lpp&amp;sheetName=s%C3%A9rie+en+dates+de+soins"/>
+                    </metaData>
+                </ts>
+            </item>
+            <item name="domainspec">
+                <string>spec1</string>
+            </item>
+            <item name="pointspec">
+                <subset>
+                    <item name="algorithm">
+                        <method version="0.1.0.0">
+                            <name>x13</name>
+                            <family>Seasonal adjustment</family>
+                        </method>
+                    </item>
+                    <item name="regarima">
+                        <subset>
+                            <item name="algorithm">
+<method version="0.1.0.0">
+    <name>regarima</name>
+    <family>Modelling</family>
+</method>
+                            </item>
+                            <item name="transform">
+<subset>
+    <item name="function">
+        <string>Log</string>
+    </item>
+    <item name="adjust">
+        <string>LeapYear</string>
+    </item>
+</subset>
+                            </item>
+                            <item name="arima">
+<subset>
+    <item name="mu">
+        <param type="Estimated">
+            <value>0.0613339648495716</value>
+        </param>
+    </item>
+    <item name="phi">
+        <params>
+            <coef type="Estimated">
+                <value>0.2707813285991273</value>
+                <stde>0.5224361848223715</stde>
+                <tstat>0.5183050800571807</tstat>
+            </coef>
+        </params>
+    </item>
+    <item name="d">
+        <integer>0</integer>
+    </item>
+    <item name="theta">
+        <params>
+            <coef type="Estimated">
+                <value>0.15414288111615437</value>
+                <stde>0.5213498388251628</stde>
+                <tstat>0.29566112739865436</tstat>
+            </coef>
+            <coef type="Estimated">
+                <value>-0.15005245468333672</value>
+                <stde>0.09864329567147435</stde>
+                <tstat>-1.521162220523101</tstat>
+            </coef>
+        </params>
+    </item>
+    <item name="btheta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.6478826840842067</value>
+                <stde>0.07387310815175352</stde>
+                <tstat>-8.770210165697867</tstat>
+            </coef>
+        </params>
+    </item>
+</subset>
+                            </item>
+                            <item name="automdl">
+<subset>
+    <item name="enabled">
+        <boolean>false</boolean>
+    </item>
+</subset>
+                            </item>
+                            <item name="regression">
+<subset>
+    <item name="tradingdays">
+        <subset>
+            <item name="option">
+                <string>TradingDays</string>
+            </item>
+            <item name="autoadjust">
+                <boolean>false</boolean>
+            </item>
+        </subset>
+    </item>
+    <item name="mh1">
+        <subset>
+            <item name="type">
+                <string>Easter</string>
+            </item>
+            <item name="param">
+                <integer>15</integer>
+            </item>
+        </subset>
+    </item>
+    <item name="outliers">
+        <strings>
+            <items>TC.2020-03-01</items>
+        </strings>
+    </item>
+    <item name="coefficients">
+        <subset>
+            <item name="td">
+                <doubles>
+                    <data>0.0042674423730091155 0.020046356522210408 -0.0047047003363636375 0.007963603741157963 0.006626139695711091 0.0060886848630705105</data>
+                </doubles>
+            </item>
+            <item name="easter">
+                <double>-0.03161038122499903</double>
+            </item>
+            <item name="TC (2020-03-01)">
+                <double>-0.18365006396869984</double>
+            </item>
+        </subset>
+    </item>
+</subset>
+                            </item>
+                        </subset>
+                    </item>
+                    <item name="x11">
+                        <subset>
+                            <item name="mode">
+<string>Multiplicative</string>
+                            </item>
+                        </subset>
+                    </item>
+                    <item name="benchmarking">
+                        <subset/>
+                    </item>
+                </subset>
+            </item>
+            <item name="quality">
+                <string>Good</string>
+            </item>
+            <item name="policy">
+                <string>Complete</string>
+            </item>
+        </subset>
+    </item>
+    <item name="sa9">
+        <subset>
+            <item name="ts">
+                <ts name="série en dates de soins&#10;infirmiers">
+                    <freq>12</freq>
+                    <firstYear>2010</firstYear>
+                    <firstPeriod>1</firstPeriod>
+                    <data>3.498482523546313E8 3.171411414443306E8 3.5238099596369594E8 3.460464631576964E8 3.7681032997609216E8 3.441598802508122E8 3.5498742250473183E8 3.4623524777121973E8 3.4513547837229437E8 3.7294390027527976E8 3.666642869766731E8 3.669846615886166E8 3.7295528505184495E8 3.377298828176675E8 3.721941734448166E8 3.681148185287636E8 3.7985680412589985E8 3.748884855523597E8 3.813279318314009E8 3.698799248079501E8 3.6757224994190836E8 3.9576857272425365E8 3.8985790463220626E8 3.83999733911369E8 3.9127085226244783E8 3.676030323361089E8 3.9436577069752395E8 3.93214709113724E8 4.159556071405734E8 3.84950417620018E8 4.0472544527033496E8 3.9100315395480305E8 3.905782229830684E8 4.125395340786228E8 4.0400785153216296E8 4.1621738997724116E8 4.108789662075888E8 3.772908031259536E8 4.2153118564480436E8 4.110622289628099E8 4.3816087237245715E8 4.1128181598867077E8 4.174472000034096E8 4.1191630145113415E8 4.126076678561189E8 4.342807967791879E8 4.338619261120621E8 4.402945305000009E8 4.3429748682798123E8 3.988023472593064E8 4.451106462911157E8 4.36065937841623E8 4.572362265724962E8 4.410998408204499E8 4.452960073494457E8 4.380732811354179E8 4.303808134925692E8 4.597034280882139E8 4.6694960211161226E8 4.6274608511187273E8 4.597722456780784E8 4.231434559595697E8 4.750904136820508E8 4.6249124366108525E8 4.981704438325992E8 4.580253580692728E8 4.747548302399444E8 4.672701705619793E8 4.558769948188924E8 4.8064700862215877E8 4.830912994436801E8 4.849551366878431E8 4.8893501441434145E8 4.5816883003791577E8 4.9879784684015083E8 4.756649497799704E8 5.1137436821897686E8 4.7941889549952817E8 5.002213460927736E8 4.826690906667599E8 4.783895850731216E8 5.1255146689280427E8 5.071446014777479E8 5.0036544416773075E8 5.076765671006961E8 4.6300259183780676E8 5.1271506154420716E8 5.085593332502726E8 5.325384152100399E8 5.0653418883205235E8 5.226838452751827E8 5.0314853155658054E8 4.9685895150935715E8 5.3447182607356334E8 5.30805436494754E8 5.3584734638054657E8 5.28789600255394E8 4.8195393969939095E8 5.3239126569894326E8 5.313536083636432E8 5.592729091209269E8 5.190804816206508E8 5.46240271325194E8 5.25115466062346E8 5.232490978683497E8 5.484314841502473E8 5.429993158563248E8 5.570300283562489E8 5.476548269816085E8 5.0032721571960235E8 5.610364450351875E8 5.457033872542078E8 5.784877693512049E8 5.523858881171584E8 5.526484380701538E8 5.456846917451718E8 5.471849902934916E8 5.691554553815197E8 5.730202514670848E8 5.793227592951837E8 5.684039147222354E8 5.407361126874881E8 5.784976950838388E8 5.484956604594398E8 6.010248938584305E8 5.71407907665694E8 5.850045801752654E8 5.837102258794485E8 5.669624508615884E8 6.008109605204114E8 6.080221034728146E8 5.992771458028884E8 6.042439134716363E8 5.460534321211262E8 6.097219609664091E8 6.027183174846992E8 6.469344173578041E8 5.818071849386337E8 5.975517398975744E8 5.85423453977802E8 5.777566832863786E8 6.115236213609912E8 6.079103344175321E8 6.111057232639858E8 6.18424065945115E8 5.488183727080951E8 6.094016828175087E8 6.005465445600392E8 6.274877267265463E8 6.058789209972111E8 6.306546545757086E8</data>
+                    <metaData>
+                        <property name="@timestamp" value="Mon Jan 23 12:00:57 CET 2023"/>
+                        <property name="@source" value="XCLPRVDR"/>
+                        <property name="@id" value="demetra://tsprovider/XCLPRVDR/20111201/SERIES?file=C%3A%5CUsers%5CYWYD5I%5CDocuments%5CFormation_Cnam%5CSession+Janvier+2023%5CDonnees%5Cserie.xlsx#seriesName=infirmiers&amp;sheetName=s%C3%A9rie+en+dates+de+soins"/>
+                    </metaData>
+                </ts>
+            </item>
+            <item name="domainspec">
+                <string>spec1</string>
+            </item>
+            <item name="pointspec">
+                <subset>
+                    <item name="algorithm">
+                        <method version="0.1.0.0">
+                            <name>x13</name>
+                            <family>Seasonal adjustment</family>
+                        </method>
+                    </item>
+                    <item name="regarima">
+                        <subset>
+                            <item name="algorithm">
+<method version="0.1.0.0">
+    <name>regarima</name>
+    <family>Modelling</family>
+</method>
+                            </item>
+                            <item name="transform">
+<subset>
+    <item name="function">
+        <string>Log</string>
+    </item>
+    <item name="adjust">
+        <string>LeapYear</string>
+    </item>
+</subset>
+                            </item>
+                            <item name="arima">
+<subset>
+    <item name="mu">
+        <param type="Estimated">
+            <value>-1.355694167840338E-4</value>
+        </param>
+    </item>
+    <item name="theta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.7407583522386983</value>
+                <stde>0.06120808810190485</stde>
+                <tstat>-12.102295222902825</tstat>
+            </coef>
+        </params>
+    </item>
+    <item name="btheta">
+        <params>
+            <coef type="Estimated">
+                <value>-0.8551106816755325</value>
+                <stde>0.06212184588243453</stde>
+                <tstat>-13.765055907930163</tstat>
+            </coef>
+        </params>
+    </item>
+</subset>
+                            </item>
+                            <item name="automdl">
+<subset>
+    <item name="enabled">
+        <boolean>false</boolean>
+    </item>
+</subset>
+                            </item>
+                            <item name="regression">
+<subset>
+    <item name="tradingdays">
+        <subset>
+            <item name="option">
+                <string>TradingDays</string>
+            </item>
+            <item name="autoadjust">
+                <boolean>false</boolean>
+            </item>
+        </subset>
+    </item>
+    <item name="outliers">
+        <strings>
+            <items>AO.2020-04-01 LS.2021-06-01 AO.2011-05-01 AO.2022-05-01</items>
+        </strings>
+    </item>
+    <item name="coefficients">
+        <subset>
+            <item name="td">
+                <doubles>
+                    <data>-6.337265432232073E-4 -0.005239390428501055 0.0018403932860386629 -3.6243675648339697E-4 -0.0052126526186193475 -0.001063995383292102</data>
+                </doubles>
+            </item>
+            <item name="AO (2020-04-01)">
+                <double>-0.041881440048375726</double>
+            </item>
+            <item name="LS (2021-06-01)">
+                <double>-0.030279266808080407</double>
+            </item>
+            <item name="AO (2011-05-01)">
+                <double>-0.041594388147840285</double>
+            </item>
+            <item name="AO (2022-05-01)">
+                <double>-0.029827351725628726</double>
+            </item>
+        </subset>
+    </item>
+</subset>
+                            </item>
+                        </subset>
+                    </item>
+                    <item name="x11">
+                        <subset>
+                            <item name="mode">
+<string>Multiplicative</string>
+                            </item>
+                        </subset>
+                    </item>
+                    <item name="benchmarking">
+                        <subset/>
+                    </item>
+                </subset>
+            </item>
+            <item name="quality">
+                <string>Good</string>
+            </item>
+            <item name="policy">
+                <string>Complete</string>
+            </item>
+        </subset>
+    </item>
+    <item name="domainspecs">
+        <subset>
+            <item name="spec1">
+                <subset>
+                    <item name="algorithm">
+                        <method version="0.1.0.0">
+                            <name>x13</name>
+                            <family>Seasonal adjustment</family>
+                        </method>
+                    </item>
+                    <item name="regarima">
+                        <subset>
+                            <item name="algorithm">
+<method version="0.1.0.0">
+    <name>regarima</name>
+    <family>Modelling</family>
+</method>
+                            </item>
+                            <item name="transform">
+<subset>
+    <item name="function">
+        <string>Auto</string>
+    </item>
+</subset>
+                            </item>
+                            <item name="arima">
+<subset>
+    <item name="theta">
+        <params>
+            <coef/>
+        </params>
+    </item>
+    <item name="btheta">
+        <params>
+            <coef/>
+        </params>
+    </item>
+</subset>
+                            </item>
+                            <item name="automdl">
+<subset>
+    <item name="enabled">
+        <boolean>true</boolean>
+    </item>
+</subset>
+                            </item>
+                            <item name="outlier">
+<subset>
+    <item name="ao">
+        <double>0.0</double>
+    </item>
+    <item name="tc">
+        <double>0.0</double>
+    </item>
+    <item name="ls">
+        <double>0.0</double>
+    </item>
+</subset>
+                            </item>
+                            <item name="regression">
+<subset>
+    <item name="tradingdays">
+        <subset>
+            <item name="option">
+                <string>TradingDays</string>
+            </item>
+            <item name="leapyear">
+                <string>LeapYear</string>
+            </item>
+            <item name="test">
+                <string>Remove</string>
+            </item>
+        </subset>
+    </item>
+    <item name="mh1">
+        <subset>
+            <item name="type">
+                <string>Easter</string>
+            </item>
+            <item name="param">
+                <integer>8</integer>
+            </item>
+            <item name="test">
+                <string>Add</string>
+            </item>
+        </subset>
+    </item>
+</subset>
+                            </item>
+                        </subset>
+                    </item>
+                    <item name="x11">
+                        <subset/>
+                    </item>
+                    <item name="benchmarking">
+                        <subset/>
+                    </item>
+                </subset>
+            </item>
+        </subset>
+    </item>
+</informationSet>
