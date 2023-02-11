@@ -1,0 +1,9 @@
+Quelques liens pour de la documentation en ligne :
+
+======
+Paper on R Tools for JDemetra+
+https://www.insee.fr/fr/statistiques/5019786
+
+=======
+Documention online of JDemetra+
+https://jdemetradocumentation.github.io/JDemetra-documentation/
