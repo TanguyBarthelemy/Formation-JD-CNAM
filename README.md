@@ -1,6 +1,6 @@
 # Formation JDemetra+ CNAM 2023
 
-## Présentation et installation
+## 👉 Présentation et installation
 
 Voici les supports, codes et data utilisés pour la formation. Pour obtenir ces documents :
  
@@ -10,7 +10,7 @@ Voici les supports, codes et data utilisés pour la formation. Pour obtenir ces 
 
 - Soit vous pouvez directement cloner le répertoire entier avec `git clone https://github.com/TanguyBarthelemy/Formation-JD-CNAM.git` *via* Rstudio ou la console Git par exemple. 
 
-## Comment poser une question ?
+## 🙋 Comment poser une question ?
 
 Pour poser une question, vous pouvez nous envoyer un mail à Anna (anna.smyk@insee.fr) et moi (tanguy.barthelemy@insee.fr) ou compléter une issue directement sur Github.
 Pour compléter une issue, il suffit de :
@@ -32,3 +32,12 @@ Pour compléter une issue, il suffit de :
 ![plot](https://github.com/TanguyBarthelemy/Formation-JD-CNAM/blob/main/img/complete_issue.png?raw=true)
 
 Voilà et merci !
+
+
+## 🌐 Réseaux :
+
+- 🖥️ GitHub Tanguy: https://github.com/TanguyBarthelemy
+- 👨‍💻 GitHub Anna: https://github.com/annasmyk
+- ▶️ [Youtube](https://www.youtube.com/@TSwithJDemetraandR)
+- 📚 Biblio: https://jdemetra-new-documentation.netlify.app/
+- 📝 Blog: https://jdemetra-universe-blog.netlify.app/
